@@ -1,0 +1,410 @@
+heartDisease = [
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "AL",
+   "Total": 12472,
+   "Prop": 228.36
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "AK",
+   "Total": 706,
+   "Prop": 134.96
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "AZ",
+   "Total": 10755,
+   "Prop": 141.12
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "AR",
+   "Total": 7377,
+   "Prop": 214.06
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "CA",
+   "Total": 60299,
+   "Prop": 151.84
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "CO",
+   "Total": 6456,
+   "Prop": 125.7
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "CT",
+   "Total": 7090,
+   "Prop": 148.92
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "DE",
+   "Total": 1861,
+   "Prop": 168.01
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "DC",
+   "Total": 1340,
+   "Prop": 213.52
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "FL",
+   "Total": 42656,
+   "Prop": 149.78
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "GA",
+   "Total": 16550,
+   "Prop": 178.74
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "HI",
+   "Total": 2521,
+   "Prop": 138.96
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "ID",
+   "Total": 2495,
+   "Prop": 145.38
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "IL",
+   "Total": 24839,
+   "Prop": 170.94
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "IN",
+   "Total": 13773,
+   "Prop": 186.24
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "IA",
+   "Total": 6995,
+   "Prop": 168.85
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "KS",
+   "Total": 5364,
+   "Prop": 156.13
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "KY",
+   "Total": 9971,
+   "Prop": 203.41
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "LS",
+   "Total": 10346,
+   "Prop": 214.08
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "ME",
+   "Total": 2807,
+   "Prop": 152.27
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MD",
+   "Total": 11244,
+   "Prop": 172.73
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MA",
+   "Total": 12023,
+   "Prop": 141.45
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MI",
+   "Total": 24156,
+   "Prop": 199.79
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MN",
+   "Total": 7714,
+   "Prop": 119.62
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MS",
+   "Total": 7715,
+   "Prop": 240
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MO",
+   "Total": 14095,
+   "Prop": 194.7
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "MT",
+   "Total": 2004,
+   "Prop": 154.27
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NE",
+   "Total": 3381,
+   "Prop": 147.87
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NV",
+   "Total": 5434,
+   "Prop": 195.06
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NH",
+   "Total": 2434,
+   "Prop": 148.92
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NJ",
+   "Total": 18460,
+   "Prop": 170.07
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NM",
+   "Total": 3425,
+   "Prop": 147.14
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NY",
+   "Total": 44039,
+   "Prop": 184.76
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "NC",
+   "Total": 17830,
+   "Prop": 165.33
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "ND",
+   "Total": 1382,
+   "Prop": 150.74
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "OH",
+   "Total": 26878,
+   "Prop": 187.92
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "OK",
+   "Total": 9721,
+   "Prop": 228.46
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "OR",
+   "Total": 6523,
+   "Prop": 135.05
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "PA",
+   "Total": 31629,
+   "Prop": 178.98
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "RI",
+   "Total": 2364,
+   "Prop": 163.44
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "SC",
+   "Total": 9648,
+   "Prop": 180.02
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "SD",
+   "Total": 1630,
+   "Prop": 150.06
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "TN",
+   "Total": 14803,
+   "Prop": 204.13
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "TX",
+   "Total": 40203,
+   "Prop": 170.67
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "UT",
+   "Total": 3323,
+   "Prop": 148.99
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "VT",
+   "Total": 1220,
+   "Prop": 149.56
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "VA",
+   "Total": 13663,
+   "Prop": 157.25
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "WA",
+   "Total": 10524,
+   "Prop": 138.18
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "WV",
+   "Total": 4666,
+   "Prop": 193.68
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "WI",
+   "Total": 11362,
+   "Prop": 159.26
+ },
+ {
+   "Year": 2013,
+   "Cause Code": "Diseases of heart (I00-I09,I11,I13,I20-I51)",
+   "Cause": "Diseases of Heart",
+   "name": "WY",
+   "Total": 939,
+   "Prop": 152.35
+ }
+]
